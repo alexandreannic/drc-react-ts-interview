@@ -11,7 +11,7 @@ The application has a few bugs. Find and resolve them!
 `Table` should work with any kind of data, not only `User`.
 
 **🏎 Performance**\
-Consider that the application could be led to work with dozens of thousands of rows. In its current state, it is not performance enough to face this load. Try to optimize the performance by any means possible!
+Consider that the application could be led to **work with hundreds of thousands of rows**. In its current state, it is not performance enough to face this load. Try to optimize the performance by any means possible!
 
 **✅ Typing**\
 Remove as much `any` as possible. Force correctness of `Table` parameters. 
